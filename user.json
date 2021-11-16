@@ -1,0 +1,8 @@
+{
+    "username":"john",
+    "fullname":"Ngoga Patrick",
+    "phone":"0782214360",
+    "password":"qwerty",
+    "isAdmin":"True",
+    "isSeller":"False"
+}
